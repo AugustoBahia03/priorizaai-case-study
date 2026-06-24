@@ -112,3 +112,21 @@ Este projeto demonstra habilidades em:
 * Evoluir automações de relacionamento
 * Criar novos fluxos para campanhas pagas
 * Documentar novas integrações futuras
+
+## Screenshots
+
+### Home
+
+![Home](./screenshots/home.png)
+
+### Seção do produto
+
+![Seção do produto](./screenshots/produto.png)
+
+### Formulário do Playbook
+
+![Formulário do Playbook](./screenshots/formulario-playbook.png)
+
+### Política de Privacidade
+
+![Política de Privacidade](./screenshots/privacidade.png)
