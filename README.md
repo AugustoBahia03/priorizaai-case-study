@@ -104,14 +104,11 @@ Este projeto demonstra habilidades em:
 * documentação técnica e comercial;
 * noções práticas de privacidade e consentimento.
 
-## Próximos passos
+## Resultado do projeto
 
-* Refinar comunicação comercial da oferta
-* Melhorar acompanhamento de leads
-* Adicionar métricas e analytics
-* Evoluir automações de relacionamento
-* Criar novos fluxos para campanhas pagas
-* Documentar novas integrações futuras
+Foi criada uma estrutura funcional de presença digital e captação de leads para a PriorizaAI, integrando landing page, formulário, automação com n8n, envio automático de e-mail e organização dos contatos em planilha.
+
+O projeto demonstra a aplicação prática de desenvolvimento web, automação e estruturação de funil em um contexto real de negócio.
 
 ## Screenshots
 
