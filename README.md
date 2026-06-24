@@ -4,6 +4,10 @@ Case study de desenvolvimento de uma landing page com automação de captação 
 
 > Este repositório é um estudo de caso público. URLs sensíveis, credenciais, webhooks reais, planilhas privadas e dados de leads não são expostos.
 
+## Projeto online
+
+Site em produção: [isagayno.com](https://www.isagayno.com)
+
 ## Visão geral
 
 O projeto teve como objetivo estruturar uma presença digital profissional para apresentar a imersão **Decisão Estratégica com IA**, capturar leads interessados em um workflow/playbook gratuito e automatizar a entrega do material por e-mail.
